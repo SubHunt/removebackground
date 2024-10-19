@@ -31,7 +31,6 @@ def ask_acetone(img_path: str):
             # PHOTOROOM
             # url='https://sdk.photoroom.com/v1/segment',
             # files={'image_file': file},
-            # headers={'Token': 'sandbox_5e2e60196078fd35e978100522414e24039c6728'}
             # headers={
             #     "Accept": "image/jpg, application/json",
             #     "x-api-key": API_PHOTOROOM,
